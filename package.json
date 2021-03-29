@@ -2,7 +2,7 @@
   "name": "lsystem",
   "version": "1.0.0",
   "description": "L-system trial",
-  "main": "index.js",
+  "main": "system.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
