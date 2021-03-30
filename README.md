@@ -9,4 +9,5 @@ Luin noin puolet kirjasta the algorithmic beauty of plants ja aloin etsiä esime
 Esimerkki käyttää edge-rewriting versiota L-systemsistä. 
 
 Katsoin muita esimerkkejä kirjasta the algorithmic beauty of plants. Näin node-rewriting version ja halusin kokeilla muokata
-esimerkkikoodia sopimaan siihen. 7 pyörityksen jälken kasvi näyttää samalta mitä kirjan sivulla 25 tai 39.
+esimerkkikoodia sopimaan siihen. 7 pyörityksen jälken kasvi näyttää samalta mitä kirjan sivulla 25 tai 39. Haluaisin tehdä tästä 
+React version, mutta aikaa vasta myöhemmin.
